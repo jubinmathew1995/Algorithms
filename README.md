@@ -4,8 +4,8 @@ extra information and other related resources. You can also find different Progr
 implementing these algorithms along with there code.
 ### List of Algorithms
 1. [Search](../../tree/master/search)
-	* Linear
-	* Binary
+	* [Linear](../../tree/master/search/linear)
+	* [Binary](../../tree/master/search/binary)
 2. Sort
 	* Bubble sort
 	* Insertion sort
