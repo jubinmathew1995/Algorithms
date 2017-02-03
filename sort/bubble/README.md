@@ -3,7 +3,7 @@ Bubble sort is a simple sorting algorithm. This sorting algorithm is comparison-
 This algorithm is not suitable for large data sets as its average and worst case complexity are of Ο(n^2) where n is the number of items.
 
 ### Algorithm
-![alt tag](images\bubblesort.gif)
+![alt tag](images/bubblesort.gif)
 
 ###### Algorithm Generalised
 
