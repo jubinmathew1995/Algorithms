@@ -6,7 +6,7 @@ implementing these algorithms along with there code.
 1. [Search](../../tree/master/search)
 	* [Linear](../../tree/master/search/linear)
 	* [Binary](../../tree/master/search/binary)
-2. Sort
-	* Bubble sort
+2. [Sort](../../tree/master/sort)
+	* [Bubble sort](../../tree/master/sort/bubble)
 	* Insertion sort
 	* Selection sort
