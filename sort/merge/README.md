@@ -4,15 +4,15 @@ With worst-case time complexity being Ο(n log n), it is one of the most respect
 
 ### Algorithm
 ![alt tag](images/Merge-sort.gif)
-First divide the list into the smallest unit (1 element), then compare each element with the adjacent list to sort and merge the two adjacent lists. 
+<br/>First divide the list into the smallest unit (1 element), then compare each element with the adjacent list to sort and merge the two adjacent lists. 
 Finally all the elements are sorted and merged.
 
 ###### Algorithm Generalised
 
 The steps to be followed are :-
 
-   Step 1 − if it is only one element in the list it is already sorted, return.
-   Step 2 − divide the list recursively into two halves until it can no more be divided.
+   Step 1 − if it is only one element in the list it is already sorted, return.<br/>
+   Step 2 − divide the list recursively into two halves until it can no more be divided.<br/>
    Step 3 − merge the smaller lists into new list in sorted order.
 
 ###### Time Complexity
