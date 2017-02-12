@@ -8,6 +8,7 @@ implementing these algorithms along with there code.
 	* [Binary](../../tree/master/search/binary)
 2. [Sort](../../tree/master/sort)
 	* [Bubble sort](../../tree/master/sort/bubble)
+	* [Merge sort](../../tree/master/sort/merge)
 	* Insertion sort
 	* Selection sort
 
