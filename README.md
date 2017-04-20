@@ -9,7 +9,7 @@ implementing these algorithms along with there code.
 2. [Sort](../../tree/master/sort)
 	* [Bubble sort](../../tree/master/sort/bubble)
 	* [Merge sort](../../tree/master/sort/merge)
-	* Insertion sort
+	* [Insertion sort](../../tree/master/sort/insertion)
 	* Selection sort
 
 Feel free to add any ALGORITHMS or source code for any algorithm in ANY programming language, just make sure that you follow the same syntax, also please make notes in form of comments in the source code, so that all the users can understand your source code easily.
