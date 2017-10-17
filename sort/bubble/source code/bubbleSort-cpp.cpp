@@ -35,7 +35,7 @@ class bubble_sort
             for(i=0; i<getlength()-1;i++)
             {
                 // this loop is used to check for adjacent elements.
-                for(j=0;j<getlength()-1;j++)
+                for(j=0;j<getlength()-i-1;j++)
                 {
                   // if the adjacent elements are NOT in sorted order
                   if (arr[j]>arr[j+1])
